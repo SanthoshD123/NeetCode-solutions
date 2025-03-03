@@ -27,9 +27,6 @@ Solutions are organized into several key algorithm and data structure categories
 
 If you'd like to contribute by adding new solutions or improving existing ones, feel free to submit a pull request!
 
-## License
-
-This repository is available under the [MIT License](LICENSE).
 
 ---
 
