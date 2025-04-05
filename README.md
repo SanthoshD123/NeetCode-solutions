@@ -18,7 +18,7 @@ Solutions are organized into several key algorithm and data structure categories
 - **Linked Lists**: Add Two Numbers, Reorder List
 - **Trees**: Invert Binary Tree, Same Tree, Subtree of Another Tree, Diameter of Binary Tree
 - **Heap/Priority Queue**: Top K Frequent Elements
-- **Dynamic Programming**: Climbing Stairs, House Robber, Min Cost Climbing Stairs
+- **Dynamic Programming**: Climbing Stairs, House Robber I & II, Min Cost Climbing Stairs
 - **Backtracking**: Combination Sum, Generate Parentheses
 - **Graphs**: Car Fleet
 - **Greedy**: Buy and Sell Stock
